@@ -12,6 +12,11 @@ Installing the dependencies:
 ```bash
 npm i
 ```
+and use 
+```bash
+npm start
+```
+to start the server.
 
 ## Description
 This site is a blogpost for techies to read and write and discuss their ideas and projects,
