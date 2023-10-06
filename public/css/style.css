@@ -7,3 +7,23 @@
     color: rgb(143, 81, 31);
     border: 1em;
 }
+
+.loginCard {
+    padding: 20px;
+    margin-left: 40px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.loginCard input {
+    margin: 20px 5px;
+    padding: 10px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 4px rgba(74, 74, 74, 0.726);
+}
+
+.loginCard button {
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 5px 5px 4px rgba(74, 74, 74, 0.726);
+}
